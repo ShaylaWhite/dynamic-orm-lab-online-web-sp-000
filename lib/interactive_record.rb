@@ -7,5 +7,4 @@ class InteractiveRecord
     "#{self.to_s.downcase}s"
    end
 
-  
 end
