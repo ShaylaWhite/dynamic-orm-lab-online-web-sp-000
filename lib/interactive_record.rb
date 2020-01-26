@@ -7,6 +7,6 @@ class InteractiveRecord
     "#{self.to_s.downcase}s"
    end
    
-   def 
+   def self.
 
 end
